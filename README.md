@@ -11,6 +11,8 @@ https://www.bilibili.com/video/BV1Y7411F7hx?p=1
 06. Day6 希尔排序+计数排序+桶排序
 07. Day7 基数排序
 8. Day8 顺序表
-9. Day9 迷宫问题
-10. Day10 链表
-11. Day11 哈希表
+9. Day9 堆栈队列
+10. Day10 迷宫问题
+11. Day11 链表
+12. Day12 哈希表
+13. Day13 二叉搜索树
