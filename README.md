@@ -25,5 +25,6 @@ https://www.bilibili.com/video/BV1Y7411F7hx?p=1
 
 坚持价值投资，做时间的朋友，喜欢的朋友请点点 star，关注我的[CSDN](https://mp.csdn.net/console/article)博客，关注我的公众号CV伴读社
 
-<div align=center><img src="https://github.com/xiaoxuebajie/algorithm/tree/master/python/images/qrcode.jpg" style='zoom:100%'>
+<div align=center><img src="https://github.com/xiaoxuebajie/algorithm/raw/master/python/images/qrcode.jpg" style='zoom:100%'>
+
 
